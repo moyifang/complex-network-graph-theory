@@ -3,11 +3,20 @@ Networks are a fundamental concept for modelling complex physical, technological
 
 
 Assignment 1: Build a directed graph for Twitter data and an undirected graph for Facebook data
+
 Assignment 2: random network, degree distribution, path length, clustering coefficients
+
 Assignment 3: Watts-Strogatz Model, scale-free graphs, Barab´asi-Albert Model
+
 Assignment 4: Betweenness closeness and PageRank, strong connected component, 
+
 Assignment 5: community detection: Girvan-Newman algorithm, asynchronous fluid communities algorithm, Clauset-Newman-Moore greedy modularity maximization algorithm 
+
 Assignment 6: Cut size and conductance, partitioning visualization
+
 Assignment 7: CODA model
+
 Assignment 8: Sznajd model to simulate the cascade of misinformation
+
 Assignment 9: machine learning algorithm to predict the deleted edges
+
