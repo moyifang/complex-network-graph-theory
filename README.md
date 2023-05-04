@@ -1,2 +1,2 @@
-# Graph_notes_blog
-Graph theory notes and algorithom
+# Analysis of complex network
+Networks are a fundamental concept for modelling complex physical, technological, social, and biological systems. The course will cover the fundamental aspects of networks: network models, methods for describing network structure and measuring networks, community detection, and information diffusion in complex networks. More advanced topics, such as network embedding and graph neural networks (GNNs) and their applications, will be also introduced and discussed. With the course, students will learn how to explore computational algorithms and machine learning techniques to reveal insights of real-world networks.
