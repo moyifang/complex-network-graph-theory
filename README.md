@@ -11,4 +11,3 @@ Assignment 6: Cut size and conductance, partitioning visualization
 Assignment 7: CODA model
 Assignment 8: Sznajd model to simulate the cascade of misinformation
 Assignment 9: machine learning algorithm to predict the deleted edges
-![image](https://user-images.githubusercontent.com/65603840/236187597-f47438d6-7797-4843-8d9d-df7e5bba4ab7.png)
